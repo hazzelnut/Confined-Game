@@ -4,7 +4,7 @@ Confined is a top-down zombie shooter flash game. The game was created in high s
 
 ![Confined](https://raw.github.com/hazzelnut/Confined-Game/master/Confined/confined.png)
 
-![Demo](https://raw.github.com/hazzelnut/Confined-Game/master/Confined/demo.png)
+![Demo](https://raw.github.com/hazzelnut/Confined-Game/master/Demo/demo.png)
 
 ## Files
 	- SWF: The Game
