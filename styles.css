@@ -1,0 +1,6 @@
+html { font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; }
+body { background: black; color: white; width: 900px; margin: 0 auto; } 
+
+h1 { letter-spacing: 12px; text-transform: uppercase; text-align: center; }
+h2 { letter-spacing: 8px; text-transform: uppercase; text-align: center; }
+object { margin: 40px 0 60px 0; }
