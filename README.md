@@ -5,6 +5,8 @@ The game was created in high school as a final project, and a smaller game was c
 
 ![Game](https://raw.github.com/hazzelnut/Confined-Game/master/game.png)
 
+Click [here](http://hazzelnut.github.io/Confined-Game/) to play the games.
+
 ## Files
 * SWF: The Game
 * FLA: Source code / Actionscript
