@@ -5,7 +5,7 @@ The game was created in high school as a final project, and a smaller game was c
 
 ![game](https://cloud.githubusercontent.com/assets/6500879/11921340/0e3af420-a755-11e5-9c12-ba2a3fdfac03.png)
 
-Click [here](http://hazzelnut.github.io/Confined-Game/) to play.
+Click [here](http://hazzelnut.github.io/confined-game/) to play.
 
 ## Files
 * SWF: The Game
